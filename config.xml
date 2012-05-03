@@ -2,9 +2,9 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.fic.epub"
-	version 	= "1.0.0">
+	version 	= "1.0.1">
 
-	<name>FIC ePub Test</name>
+	<name>FIC ePub</name>
 
 	<description>
 		FIC ePub Test
